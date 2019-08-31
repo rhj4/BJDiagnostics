@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HC05Utility", "HC05Utility.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BJHC05Utility", "..\..\libraries\BJHC05Utility\BJHC05Utility.vcxitems", "{62B97FE8-5A35-428A-A225-353004B29869}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoftwareSerial", "..\..\..\..\Arduino\hardware\arduino\avr\libraries\SoftwareSerial\SoftwareSerial.vcxitems", "{56C8CD64-9E6B-4904-B483-E7224F40BA23}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BJSignalManager", "..\..\libraries\BJSignalManager\BJSignalManager.vcxitems", "{A6091000-B5B0-42F8-8573-C0779C0824B0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BJBufferManager", "..\..\libraries\BJBufferManager\BJBufferManager.vcxitems", "{77ABE38D-34D4-4BC1-B2C8-A00683FC8548}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BJBuzzer", "..\..\libraries\BJBuzzer\BJBuzzer.vcxitems", "{A96931C1-2B53-474D-8AE0-85B8E851025D}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\..\..\..\Arduino\hardware\arduino\avr\libraries\SoftwareSerial\SoftwareSerial.vcxitems*{56c8cd64-9e6b-4904-b483-e7224f40ba23}*SharedItemsImports = 9
+		..\..\libraries\BJHC05Utility\BJHC05Utility.vcxitems*{62b97fe8-5a35-428a-a225-353004b29869}*SharedItemsImports = 9
+		..\..\libraries\BJBufferManager\BJBufferManager.vcxitems*{77abe38d-34d4-4bc1-b2c8-a00683fc8548}*SharedItemsImports = 9
+		..\..\libraries\BJSignalManager\BJSignalManager.vcxitems*{a6091000-b5b0-42f8-8573-c0779c0824b0}*SharedItemsImports = 9
+		..\..\libraries\BJBuzzer\BJBuzzer.vcxitems*{a96931c1-2b53-474d-8ae0-85b8e851025d}*SharedItemsImports = 9
+		..\..\..\..\Arduino\hardware\arduino\avr\libraries\SoftwareSerial\SoftwareSerial.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		..\..\libraries\BJBufferManager\BJBufferManager.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		..\..\libraries\BJBuzzer\BJBuzzer.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		..\..\libraries\BJHC05Utility\BJHC05Utility.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		..\..\libraries\BJSignalManager\BJSignalManager.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88F8A2FC-7153-4B55-8159-13616AD80C7D}
+	EndGlobalSection
+EndGlobal

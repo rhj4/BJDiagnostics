@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HC05ATUtility", "HC05ATUtility.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wire", "..\..\..\..\Arduino\hardware\arduino\avr\libraries\Wire\Wire.vcxitems", "{72153DE2-2A87-47C3-84E9-2A440479061A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SSD1306Ascii-master", "..\..\libraries\SSD1306Ascii-master\SSD1306Ascii-master.vcxitems", "{01D27A31-DB75-41D2-AAFF-B08C0F792A10}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoftwareSerial", "..\..\..\..\Arduino\hardware\arduino\avr\libraries\SoftwareSerial\SoftwareSerial.vcxitems", "{56C8CD64-9E6B-4904-B483-E7224F40BA23}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\..\libraries\SSD1306Ascii-master\SSD1306Ascii-master.vcxitems*{01d27a31-db75-41d2-aaff-b08c0f792a10}*SharedItemsImports = 9
+		..\..\..\..\Arduino\hardware\arduino\avr\libraries\SoftwareSerial\SoftwareSerial.vcxitems*{56c8cd64-9e6b-4904-b483-e7224f40ba23}*SharedItemsImports = 9
+		..\..\..\..\Arduino\hardware\arduino\avr\libraries\Wire\Wire.vcxitems*{72153de2-2a87-47c3-84e9-2a440479061a}*SharedItemsImports = 9
+		..\..\..\..\Arduino\hardware\arduino\avr\libraries\Wire\Wire.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		..\..\libraries\SSD1306Ascii-master\SSD1306Ascii-master.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39363DB1-7CB0-4819-8BA6-71B66D94B0F6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+HC05Utility	3	True
+HC05Utility/HC05Utility	3	True
+HC05Utility/HC05Utility/HC05Utility.ino	2	True
+HC05Utility/HC05Utility/HC05Utility.ino/setup ()	2	False
+HC05Utility/HC05Utility/HC05Utility.ino/loop ()	2	False
+HC05Utility/BJHC05Utility	2	True
+HC05Utility/BJHC05Utility/BJHC05Utility.cpp	2	False
+HC05Utility/BJHC05Utility/BJHC05Utility.h	2	False
+HC05Utility/BJSignalManager	2	True
+HC05Utility/BJSignalManager/BJSignalManager.cpp	2	False
+HC05Utility/BJSignalManager/BJSignalManager.cpp/*	2	False
+HC05Utility/BJSignalManager/BJSignalManager.h	2	False
+HC05Utility/BJSignalManager/BJSignalManager.h/*	2	False
+HC05Utility/BJBufferManager	2	True
+HC05Utility/BJBufferManager/BJBufferManager.cpp	2	False
+HC05Utility/BJBufferManager/BJBufferManager.cpp/*	2	False
+HC05Utility/BJBufferManager/BJBufferManager.h	2	False
+HC05Utility/BJBufferManager/BJBufferManager.h/*	2	False

@@ -1,0 +1,20 @@
+C:\Users\rhjon\AppData\Local\Temp\VMBuilds\HC05Utility\uno\Release\HC05Utility.cpp.o: \
+ C:\Users\rhjon\AppData\Local\Temp\VMBuilds\HC05Utility\uno\Release\HC05Utility.cpp \
+ D:\Arduino\hardware\arduino\avr\cores\arduino/arduino.h \
+ D:\Arduino\hardware\arduino\avr\cores\arduino/binary.h \
+ D:\Arduino\hardware\arduino\avr\cores\arduino/WCharacter.h \
+ D:\Arduino\hardware\arduino\avr\cores\arduino/WString.h \
+ D:\Arduino\hardware\arduino\avr\cores\arduino/HardwareSerial.h \
+ D:\Arduino\hardware\arduino\avr\cores\arduino/Stream.h \
+ D:\Arduino\hardware\arduino\avr\cores\arduino/Print.h \
+ D:\Arduino\hardware\arduino\avr\cores\arduino/Printable.h \
+ D:\Arduino\hardware\arduino\avr\cores\arduino/USBAPI.h \
+ D:\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h \
+ D:\Arduino\hardware\arduino\avr\variants\standard/pins_arduino.h \
+ D:\Arduino\hardware\arduino\avr\libraries\SoftwareSerial\src/SoftwareSerial.h \
+ D:\Arduino\hardware\arduino\avr\cores\arduino/Stream.h \
+ D:\Documents\Arduino\libraries\BJBuzzer\src/BJBuzzer.h \
+ D:\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h \
+ D:\Documents\Arduino\libraries\BJHC05Utility/BJHC05Utility.h \
+ D:\Documents\Arduino\libraries\BJBufferManager/BJBufferManager.h \
+ D:\Documents\Arduino\libraries\BJSignalManager/BJSignalManager.h
